@@ -6,8 +6,7 @@
                     All in one place to track your <span class="text-primary-600">Athletes</span> Achievements.
                 </h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam optio eos nihil dicta. Sequi
-                    harum ducimus expedita veritatis alias inventore!
+                   Monitor athlete performance, manage career progress, and track achievements in one centralized platform designed for coaches, teams, and sports organizations.
                 </p>
 
                 <a href="{{ route('athletes.index') }}" class="block">
@@ -31,9 +30,7 @@
                     {{ __('Features') }}
                 </x-slot>
                 <x-slot name="description">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus error quam itaque earum
-                    dolorum!
-                    Quos.
+                    Powerful tools to manage athlete data, performance records, and career milestones efficiently and securely.
                 </x-slot>
             </x-header>
 
